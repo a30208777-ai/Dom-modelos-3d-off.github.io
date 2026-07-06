@@ -4,12 +4,13 @@
     "preco": "R$ 00,00",
     "tempo": "00h",
     "gasto": "00g",
-    "imagens": ["URLs_DAs_FOTO_sAQUI"],
+    "imagens": ["URLs_DAs_FOTO_sAQUI"]
   },
   {
-    "nome": "monte sua anomalia (animal hospital)não disponivel",
+    "nome": "monte sua anomalia (animal hospital) não disponivel",
     "preco": "R$ 40,80",
     "tempo": "02h do boneco e 7h de objetos",
     "gasto": "aproximadamente 700g de filamento",
-    "imagens": ["https://i.ibb.co/LhR4jH2z/IMG-20260706-184900.jpg"],
+    "imagens": ["https://i.ibb.co/LhR4jH2z/IMG-20260706-184900.jpg"]
+  }
 ]
